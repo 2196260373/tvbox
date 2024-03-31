@@ -118,6 +118,18 @@
             "name": "影探线路"
         },
         {
+            "url": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/duo.json?ref=main",
+            "name": "陪你到最后"
+        },
+        {
+            "url": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/a.txt?ref=main",
+            "name": "多多优选仓"
+        },
+        {
+            "url": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/b.txt?ref=main",
+            "name": "多多公众仓"
+        },
+        {
             "url": "http://dxawi.github.io/0/0.json",
             "name": "dxawi线路"
         }
