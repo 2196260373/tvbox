@@ -20,7 +20,19 @@
         {
             "url": "https://gitee.com/zhaodehe/qlkj/raw/master/ys.json",
             "name": "奇乐科技"
-        }, 
+        },
+        {
+            "url": "https://notabug.org/dongchenys/pt/raw/json/dczx.json",
+            "name": "东辰精选多仓"
+        },
+        {
+            "url": "http://oneone.dynv6.net:9999",
+            "name": "请叫我旺纸蝈蝈"
+        },
+        {
+            "url": "http://tv.apehn.com/xla.json",
+            "name": "ND"
+        },
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "小米"
